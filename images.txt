@@ -9,4 +9,5 @@
 #jeessy/ddns-go
 #lscr.io/linuxserver/mariadb
 #metatube/metatube-server
-mtphotos/mt-photos:latest
+#mtphotos/mt-photos:latest
+linuxserver/phpmyadmin
