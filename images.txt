@@ -10,4 +10,5 @@
 #lscr.io/linuxserver/mariadb
 #metatube/metatube-server
 #mtphotos/mt-photos:latest
-linuxserver/phpmyadmin
+#linuxserver/phpmyadmin
+xiaoyaliu/alist
