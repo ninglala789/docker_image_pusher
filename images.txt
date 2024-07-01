@@ -8,4 +8,5 @@
 #hectorqin/reader
 #jeessy/ddns-go
 #lscr.io/linuxserver/mariadb
-metatube/metatube-server
+#metatube/metatube-server
+mtphotos/mt-photos:latest
