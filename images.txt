@@ -13,4 +13,5 @@
 #linuxserver/phpmyadmin
 #xiaoyaliu/alist
 #jxxghp/moviepilot
-linuxserver/qbittorrent
+#linuxserver/qbittorrent
+linuxserver/jackett
