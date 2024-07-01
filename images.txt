@@ -12,3 +12,4 @@
 #mtphotos/mt-photos:latest
 #linuxserver/phpmyadmin
 xiaoyaliu/alist
+jxxghp/moviepilot
