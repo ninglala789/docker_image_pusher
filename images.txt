@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #deluan/navidrome
 #hectorqin/reader
-jeessy/ddns-go
+#jeessy/ddns-go
+lscr.io/linuxserver/mariadb
