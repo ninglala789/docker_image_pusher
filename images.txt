@@ -7,4 +7,5 @@
 #deluan/navidrome
 #hectorqin/reader
 #jeessy/ddns-go
-lscr.io/linuxserver/mariadb
+#lscr.io/linuxserver/mariadb
+metatube/metatube-server
