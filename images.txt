@@ -11,5 +11,6 @@
 #metatube/metatube-server
 #mtphotos/mt-photos:latest
 #linuxserver/phpmyadmin
-xiaoyaliu/alist
-jxxghp/moviepilot
+#xiaoyaliu/alist
+#jxxghp/moviepilot
+linuxserver/qbittorrent
