@@ -9,10 +9,10 @@
 #jeessy/ddns-go
 #lscr.io/linuxserver/mariadb
 #metatube/metatube-server
-#mtphotos/mt-photos:latest
+mtphotos/mt-photos:latest
 #linuxserver/phpmyadmin
 #xiaoyaliu/alist
 #jxxghp/moviepilot
 #linuxserver/qbittorrent
 #linuxserver/jackett
-johngong/qbittorrent
+#johngong/qbittorrent
