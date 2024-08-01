@@ -6,7 +6,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #deluan/navidrome
 #hectorqin/reader
-#jeessy/ddns-go
+jeessy/ddns-go
 #lscr.io/linuxserver/mariadb
 #metatube/metatube-server
 #mtphotos/mt-photos:latest
@@ -16,4 +16,4 @@
 #linuxserver/qbittorrent
 #linuxserver/jackett
 #johngong/qbittorrent
-emby/embyserver:4.9.0.28
+#emby/embyserver:4.9.0.28
